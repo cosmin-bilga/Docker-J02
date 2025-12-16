@@ -8,7 +8,7 @@
 
 ### RESULT
 
-![alt-text](image/result.jpg)
+![alt-text](image/resultat.jpg)
 
 ### STOP
 
